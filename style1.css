@@ -1,0 +1,19 @@
+@charset "utf-8";
+.hero {
+	background: #577453;
+	margin: auto;
+	height: 700px;
+	width: 500px;
+}
+
+h1 {
+	color:#023316;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 72px;
+}
+
+p {
+	color: white;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+}

@@ -1,0 +1,60 @@
+.hero {
+	width: 700px;
+	height: 700px;
+	margin: auto;
+}
+
+body{
+	background-color: #e3d8bf;
+}
+
+h1{
+	color: #e3d8bf;
+	font-size: 60px;
+	font-family: helvetica, sans-serif;
+	margin: auto;
+	position: relative;
+	top: 75px;
+	z-index: 3;
+}
+
+.brown {
+	background-color: #4e634b;
+	height: 80px;
+	width: 700px;
+	position: sticky;
+	left: 0px;
+	z-index: 2;
+}
+
+p{
+	color: #6b523e;
+	font-size: 16px;
+	font-family: helvetica, sans-serif;
+}
+
+.borderleft {
+	background-color: #82947f;
+	height: 1050px;
+	width: 250px;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+.cloud1 {
+	height: 1050px;
+	width: 250px;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+.borderright {
+	background-color: #82947f;
+	height: 1050px;
+	width: 250px;
+	position: fixed;
+	right: 0px;
+	top: 0px;
+}
